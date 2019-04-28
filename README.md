@@ -4,3 +4,4 @@ This repository consists of
 2. BCD to 7- Segment decoder.
 3. Serial transfer using shift register.
 4. 3x8 decoder.
+5. Grey to binary code conversion.
