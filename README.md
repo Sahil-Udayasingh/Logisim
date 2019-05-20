@@ -5,4 +5,5 @@ This repository consists of
 3. Serial transfer using shift register.
 4. 3x8 decoder.
 5. Grey to binary code conversion.
-6. BCD to 7- Segment decoder corrected( the previous file had some errors instead of 9 it was showing 3 now it has been corrected.)
+6. BCD to 7- Segment decoder corrected
+( the previous file had some errors instead of 9 it was showing 3 now it has been corrected.)
